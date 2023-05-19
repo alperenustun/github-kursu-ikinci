@@ -1,1 +1,1 @@
-const sayi = 5;
+let sayi = 5;
